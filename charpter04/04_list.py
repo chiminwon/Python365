@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 list = ['abcd', 786, 2.23, 'test', 70.2]
 tinylist = [123, 'test']
 
