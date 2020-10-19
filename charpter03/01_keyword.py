@@ -3,7 +3,7 @@
 import keyword
 
 # 打印所有的关键字
-print(keyword.kwlist)
+# print(keyword.kwlist)
 # print(keyword.iskeyword('lambda'))
 
 
@@ -15,3 +15,6 @@ print(keyword.kwlist)
 
 # print('わたし')
 # print("中文")
+
+# tes = 1,
+# print(type(tes))
