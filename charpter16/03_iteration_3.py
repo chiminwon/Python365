@@ -1,3 +1,6 @@
+import sys
+
+
 class MyNumbers:
 
     def __iter__(self):

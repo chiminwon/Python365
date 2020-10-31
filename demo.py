@@ -36,3 +36,8 @@ str = 'Testing'
 #
 # print(type(b) == A)
 # print(isinstance(b, A))
+
+
+lista = [1,2,3]
+listb = lista.copy()
+print(listb)
