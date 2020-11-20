@@ -2,7 +2,6 @@ from charpter21.People import People
 
 
 class Student(People):
-
     grade = ''
 
     def __init__(self, n, a, w, g):

@@ -9,3 +9,7 @@ print('---------')
 print(x, end=" ")
 print(y, end=" ")
 print()
+
+name = 'allen'
+for i in range(1, 100):
+    print('我的名字是: ', name + str(i))

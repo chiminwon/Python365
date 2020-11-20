@@ -18,3 +18,4 @@ class People:
 # 实例化类
 p = People('test', 10, 30)
 p.speak()
+print(p.age)

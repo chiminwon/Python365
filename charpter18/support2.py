@@ -1,18 +1,11 @@
-def print_func(par):
+def print_func3(par):
     print("Hello : ", par)
     return
 
 
-def print_func2(par):
+def print_func4(par):
     print("Hello : ", par)
     return
-
-
-def sum(a, b):
-    # 计算a和b的和
-    total = a + b
-    print("自定义函数内 total = ", total)
-    return total
 
 
 if __name__ == '__main__':

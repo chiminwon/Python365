@@ -4,3 +4,5 @@ while True:
         break
     except ValueError:
         print("您输入的不是数字，请再次尝试输入！")
+
+# print(1/0)

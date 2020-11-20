@@ -6,7 +6,7 @@ def printme(str):
 
 
 # 调用printme函数
-printme(str="Test教程")
+printme("Test教程")
 
 
 # 可写函数说明
@@ -18,4 +18,6 @@ def printinfo(name, age):
 
 
 # 调用printinfo函数
+printinfo("test", 50)
 printinfo(age=50, name="test")
+printinfo(name="test", age=50)
